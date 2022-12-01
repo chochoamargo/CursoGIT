@@ -3,5 +3,7 @@ Briseño
 Torres
 Solis
 Peña
+Alfaro
+Villanueva
 Doroteo
 Rodriguez
