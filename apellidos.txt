@@ -5,3 +5,5 @@ Solis
 Peña
 Alfaro
 Villanueva
+Doroteo
+Rodriguez
